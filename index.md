@@ -1,4 +1,4 @@
-##학교운영위원회에 대해 궁금하신가요?
+## 학교운영위원회에 대해 궁금하신가요?
 
 You can use the [editor on GitHub](https://github.com/Cynthia0407/Hagoony/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
