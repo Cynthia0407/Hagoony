@@ -11,7 +11,7 @@
 
 하구니 챗봇은 2022 경기도교육청 학교운영위원회 [업무편람](https://github.com/Cynthia0407/Hagoony/issues/17#issue-1252626516)과 [핸드북](https://github.com/Cynthia0407/Hagoony/issues/16#issue-1252626208)을 기반으로 만들어졌습니다.📃
 
-### 챗봇을 시작해보세요.
+### 챗봇을 시작해보세요. ![Image](https://github.com/Cynthia0407/Hagoony/issues/3#issue-1225175266)
 
 
 ```markdown
